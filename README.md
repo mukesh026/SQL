@@ -1,2 +1,2 @@
 # SQL
-this is my sql Project
+Sql Project
